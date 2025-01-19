@@ -9,4 +9,7 @@ This Repostitory Shows my React Projects that i made while Learning React.
  
  ![Image](https://res.cloudinary.com/dqelb5apq/image/upload/v1737288349/Screenshot_2025-01-19_173211_m0xx8q.png)
 
- 
+ ### 2. Accordian⬇️
+ - An Accordian is a Component that lets users expand and collapse sections of content. it is useful for organising information into smaller, managable pieces while keeping the interface clean and easy to navigate.
+ - commonly used for FAQ's, menus, or grouped content.
+ ![Image](https://res.cloudinary.com/dqelb5apq/image/upload/v1737288364/Screenshot_2025-01-17_132820_vojuyj.png)
